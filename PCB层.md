@@ -46,7 +46,9 @@ Altium Designer最多可提供32个信号层，包括顶层（Top Layer）、底
 
 （2）底层丝印层（Bottom Overlay）
 
-与顶层丝印层相同，若所有标注在顶层丝印层都已经包含，底层丝印层可关闭。
+与顶层丝印层相同，只不过印刷在背面。
+
+![image](https://github.com/countsp/PCB_design/assets/102967883/65e09a80-8d56-4e1e-b422-2399ae4b2efc)
 
 
 ## 4、机械层（Mechanical Layers）
