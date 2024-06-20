@@ -1,4 +1,0 @@
-1、信号层（Signal Layers）
-
-Altium Designer最多可提供32个信号层，包括顶层（Top Layer）、底层（Bottom Layer）和中间层（Mid-Layer）。各层之间可通过通孔（Via）、盲孔（Blind Via）和埋孔（Buried Via）实现互相连接。
-
