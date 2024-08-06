@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8bfb2000-6269-4310-a716-796d00df29a5)# LC滤波器
+# LC滤波器
 
 **LC滤波器按所通过信号的频段分为以下三类**
 
