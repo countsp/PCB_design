@@ -1,4 +1,4 @@
-# LC滤波器
+![image](https://github.com/user-attachments/assets/8bfb2000-6269-4310-a716-796d00df29a5)# LC滤波器
 
 **LC滤波器按所通过信号的频段分为以下三类**
 
@@ -32,3 +32,13 @@
 
 ![image](https://github.com/user-attachments/assets/c2cb936f-fa55-4985-b427-01737db12f13)
 ![image](https://github.com/user-attachments/assets/e4660c79-210e-48f3-939c-5bc831370482)
+
+**应用**
+在设计供电时，常常使用lc滤波电路，例如：
+
+滤波作用：电感L2与电容C25、C22组成了一个LC滤波器，可以滤除电源线上的高频噪声，确保稳压器输入端的电压更加平滑稳定。这样可以提高LDO的输出稳定性和噪声性能。
+
+抑制电压尖峰：电感可以抑制电压尖峰和浪涌电流，保护后续电路，尤其是在电池供电的情况下，电源线路上的电压波动可能会比较大，电感能够起到缓冲和稳定的作用。
+
+![Screenshot from 2024-08-06 09-32-02](https://github.com/user-attachments/assets/1d7cb2ca-bd09-4d55-bbde-493405e0209f)
+
